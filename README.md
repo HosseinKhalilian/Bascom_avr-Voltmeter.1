@@ -7,7 +7,7 @@
 
 
 ### This repository is MCU DC Digital Voltmeter .
-This voltmeter can read-only DC voltage from 0-5 volt and Display . 
+This voltmeter can read-only DC voltage from 0-5 volt and Display on 2 Digit Seven Segment . 
 
 ###### This repository contains Source Files & Proteus Circuit Simulation Files. 
 
