@@ -1,4 +1,4 @@
-# Bascom_avr-Voltmeter.1
+# Bascom_avr-Voltmeter
 
 <p align="center">
 <img src="./Sch.jpg" height="240">
